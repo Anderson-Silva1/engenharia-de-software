@@ -12,7 +12,7 @@ De uma forma bem resumida, Software seriam os aplicativos que nós usamos, como:
 - Relógio
 - Navegadores (Chrome, Opera, FireFox...)
 
-#### **Mas de uma forma mais profissional, software consiste em:**
+### **Mas de uma forma mais profissional, software consiste em:**
 
 - (1) instruções (programa de computador) que, quando executadas, fornecem características, funções e desempenho desejados;
 
